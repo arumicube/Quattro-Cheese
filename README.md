@@ -13,6 +13,14 @@
 ---
 
 ## 1. Setup
+### 1.0 .gitignore 파일 생성
+/cpr_cheese/.gitignore 파일 생성 후
+```bash
+venv/
+__pycache__/
+*.pyc
+```
+입력
 
 ### 1.1 프로젝트 이동
 ```bash
